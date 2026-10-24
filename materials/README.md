@@ -11,3 +11,4 @@
 | [`lesson-01-first-query`](lesson-01-first-query/README.md) | 1. Первый запрос к базе из C# | где лежат файлы архива `orders-starter.zip` |
 | [`lesson-02-parameters`](lesson-02-parameters/README.md) | 2. Параметры запроса и SQL-инъекция | где лежат файлы архива `search-app.zip`, вводы для опытов с инъекцией |
 | [`lesson-03-items`](lesson-03-items/README.md) | 3. Строки в объекты и ошибки ограничений | где лежат файлы архива `items-app.zip` |
+| [`lesson-04-orders`](lesson-04-orders/README.md) | 4. Транзакции и откат операций | где лежат файлы архива `order-app.zip` |
